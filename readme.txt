@@ -17,9 +17,35 @@ Configure the plugin with your SharpSpring information, and this plugin will ins
 
 == Installation ==
 
-1. Upload the plugin files to the '/wp-content/plugins/sharpspring-integration-by-fahrenheit' directory, or install the plugin through the WordPress plugins screen directly.
-1. Activate the plugin through the 'Plugins' screen in WordPress.
-1. Use the Settings -> SharpSpring Integration screen to configure the plugin.
+**Repository Crossload Method (Recommended)**
+1. Log in to your WordPress Dashboard then go to Plugins -> Add New -> Search
+
+2. Search for "MyBookTable"
+
+3. Click “Install”
+
+4. Click “Activate” under the the plugin on the 'Plugins' menu in WordPress.
+
+5. Follow the instructions at the top of the dashboard.
+
+**Zip Upload Method**
+
+1. Download the mybooktable.zip from the WordPress.org plugin repository.
+
+2. In your WordPress Dashboard go to Plugins -> Add New -> Upload
+
+3. Select "choose file", select the zip, and click “install now”
+
+4. Click “Activate” under the the plugin on the 'Plugins' menu in WordPress.
+
+**Old-Fashioned FTP Method (Advanced)**
+1. Download the zip from the WordPress plugin repository.
+
+2. Open the zip to a directory. This should happen automatically by double clicking the zip file.
+
+3. Upload the mybooktable directory to the /wp-content/plugins/ directory of your site, using your favorite FTP client.
+
+3. Click “Activate” under the the plugin on the 'Plugins' menu in WordPress.
 
 == Changelog ==
 
@@ -28,4 +54,3 @@ Configure the plugin with your SharpSpring information, and this plugin will ins
 
 = 1.0 =
 * Initial release
-
